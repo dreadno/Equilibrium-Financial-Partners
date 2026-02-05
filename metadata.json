@@ -1,0 +1,8 @@
+
+{
+  "name": "Equilibrium Financial Partners",
+  "description": "A high-end, professional landing page for a modern accounting firm featuring an AI-powered financial assistant powered by Gemini.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
